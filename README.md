@@ -95,7 +95,7 @@
                   }
             }
 
-            main(){
+           int main(){
 
     //Initializing 3 queues
     queues q[3];
